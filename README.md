@@ -1,7 +1,7 @@
 This is the overview of the Todo Challenge. I have developed a todo application and included all the relevant screenshots in the README file.
 
 1. This is the User's Project Window
-![Screenshot 2024-11-03 164711](https://github.com/user-attachments/assets/c13f5402-a6f0-4b05-b653-917583477ee0)
+(https://github.com/user-attachments/assets/c13f5402-a6f0-4b05-b653-917583477ee0)
 
 2. This is the Individual Project Todos's
 ![Screenshot 2024-11-03 164916](https://github.com/user-attachments/assets/de560dc7-319b-4487-895c-24e7b70f4e55)
