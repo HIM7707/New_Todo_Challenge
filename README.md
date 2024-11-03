@@ -56,3 +56,33 @@ To run the application locally, follow these steps:
    ```bash
    git clone https://github.com/USERNAME/todo-application.git
    cd todo-application
+
+
+
+Here are few of the ScreenShots that display how this application works 
+
+1 . This is the Projects Window - It displays all the projects of a User.
+
+![Screenshot 2024-11-03 164711](https://github.com/user-attachments/assets/335326e5-f242-436e-a89d-5717a2c8f45e)
+
+2. This is the Todo Window - It displays all the Todo of a particular project 
+
+![Screenshot 2024-11-03 164916](https://github.com/user-attachments/assets/59e4620f-53e0-4fcd-af02-e91897f22b71)
+
+3. Proper Authentication is also integrated in the project 
+
+![Screenshot 2024-11-03 164618](https://github.com/user-attachments/assets/b26cb3f0-1412-4b06-8657-314e6d8165a0)
+
+![Screenshot 2024-11-03 165028](https://github.com/user-attachments/assets/61c0dd6c-1d8d-4105-917e-cbeed052b017)
+
+4. These are the windows that let users all new Projects or Todo's
+
+![Screenshot 2024-11-03 164940](https://github.com/user-attachments/assets/b2755f2c-4392-45c1-b407-db7e37d8846b)
+
+![Screenshot 2024-11-03 165055](https://github.com/user-attachments/assets/905de65f-34f5-44d3-9a28-4e09c1d2df68)
+
+ 
+
+
+
+
